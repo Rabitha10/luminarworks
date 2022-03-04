@@ -1,0 +1,19 @@
+h1{
+    color: chartreuse;
+    text-align: center;
+}
+#a{
+    color: coral;
+    text-align: end;
+}
+.b{
+    color: crimson;
+    text-align: start;
+}
+#d1{
+    background-color: cyan;
+}
+#d2{
+    background-color: darkblue;
+    color: darkmagenta;
+}

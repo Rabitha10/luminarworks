@@ -1,0 +1,18 @@
+div{
+    height: 100px;
+    width: 200px;
+    border: black 2px solid;
+}
+.col-1{
+    background-color: blueviolet;
+}
+.col-2{
+    margin-left: 253px;
+    margin-top: -103px;
+    background-color: brown;
+}
+.col-3{
+    margin-left: 513px;
+    margin-top: -103px;
+    background-color: cornflowerblue;
+}

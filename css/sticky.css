@@ -1,0 +1,7 @@
+div{
+    background-color: chartreuse;
+    width: 300px;
+    position: sticky;
+    
+    top: 0px;
+}

@@ -1,0 +1,19 @@
+/* div p{
+    color: blue;
+}
+decendant selector */
+div :nth-child(1){
+    color: blueviolet;
+}
+div :nth-child(2){
+    color: brown;
+}
+/* pseudo selector */
+/* a:hover */
+body{
+
+    background-image: url(./image/Malik.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
